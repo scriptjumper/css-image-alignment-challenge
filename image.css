@@ -1,0 +1,8 @@
+.photos img {
+  width: 15%;
+}
+
+.photos {
+  background: #dfdfdf;
+  padding: 20px;
+}
